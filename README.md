@@ -1,6 +1,7 @@
 DIABETES RISK ASSESSMENT PREDICTIVE MODEL
 -
 Overview
+
 Pima Indians Diabetes dataset is used to create a prediction model for estimating a person's probability of developing diabetes based on numerous health-related factors.
 
 To forecast the risk of diabetes, linear regression was used.
